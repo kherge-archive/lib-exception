@@ -17,6 +17,9 @@
     "require": {
         "php": ">=5.3.3"
     },
+    "require-dev": {
+        "league/phpunit-coverage-listener": "~1.0"
+    },
     "autoload": {
         "psr-0": {
             "Phine\\Exception": "src/lib"
