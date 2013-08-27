@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="src/vendors/autoload.php" colors="true" strict="true">
+  <filter>
+    <whitelist>
+      <directory suffix=".php">src/lib/</directory>
+    </whitelist>
+  </filter>
+  <testsuites>
+    <testsuite name="Phine Exception Test Suite">
+      <directory phpVersion="5.3.3" phpVersionOperator=">=" suffix="Test.php">src/tests/</directory>
+    </testsuite>
+  </testsuites>
+</phpunit>
