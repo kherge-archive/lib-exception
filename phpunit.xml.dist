@@ -5,6 +5,9 @@
       <directory suffix=".php">src/lib/</directory>
     </whitelist>
   </filter>
+  <logging>
+    <log type="coverage-clover" target="/tmp/coverage.xml"/>
+  </logging>
   <listeners>
     <listener class="League\PHPUnitCoverageListener\Listener">
       <arguments>
