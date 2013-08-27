@@ -3,8 +3,8 @@ Exception
 
 [![Build Status][]](https://travis-ci.org/phine/lib-exception)
 [![Coverage Status][]](https://coveralls.io/r/phine/lib-exception)
-[![Latest Stable Version][]](https://packagist.org/packages/phine/lib-exception)
-[![Total Downloads][]](https://packagist.org/packages/phine/lib-exception)
+[![Latest Stable Version][]](https://packagist.org/packages/phine/exception)
+[![Total Downloads][]](https://packagist.org/packages/phine/exception)
 
 Adds functionality to the standard `Exception` class.
 
@@ -47,6 +47,6 @@ This library is available under the [MIT license](LICENSE).
 
 [Build Status]: https://travis-ci.org/phine/lib-exception.png?branch=master
 [Coverage Status]: https://coveralls.io/repos/phine/lib-exception/badge.png
-[Latest Stable Version]: https://poser.pugx.org/phine/lib-exception/v/stable.png
-[Total Downloads]: https://poser.pugx.org/phine/lib-exception/downloads.png
+[Latest Stable Version]: https://poser.pugx.org/phine/exception/v/stable.png
+[Total Downloads]: https://poser.pugx.org/phine/exception/downloads.png
 [Composer]: http://getcomposer.org/
