@@ -40,6 +40,11 @@ Via [Composer][]:
 
     $ composer require "phine/exception=~1.0"
 
+Documentation
+-------------
+
+You can find the documentation in the [`docs/`](docs/) directory.
+
 License
 -------
 
