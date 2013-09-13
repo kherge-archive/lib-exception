@@ -14,7 +14,7 @@ return new Sami(
         ->in(__DIR__ . '/src/lib'),
     array(
         'build_dir' => __DIR__ . '/../docs/%version%',
-        'cache_dir' => sys_get_temp_dir() . '/lib-bench/%version%',
+        'cache_dir' => sys_get_temp_dir() . '/lib-exception/%version%',
         'theme' => 'github',
         'versions' => $versions
     )
